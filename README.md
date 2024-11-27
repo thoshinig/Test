@@ -14,6 +14,13 @@ It is a sample project to check functionalities of GitHub and GitBook.
 
 What software or dependencies need to be installed?
 
--visual studio 2022
+* visual studio 2022
+* MSSQL
 
--MSSQL
+### Languages
+
+* &#x20;.Net
+* React
+
+
+
