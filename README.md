@@ -11,9 +11,8 @@ It is a sample project to check functionalities of GitHub and GitBook.
 ## Installation
 
 ### Prerequisites
+- visual studi2022
+- MySql
 
-What software or dependencies need to be installed?
-
--visual studio 2022
 
 
